@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Oswald-Regular.ttf">
+            <string>Oswald-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="ContactUsArTableViewCell" rowHeight="56" id="KGk-i7-Jjw" customClass="ContactUsArTableViewCell" customModule="FMAC" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="366" height="48"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="366" height="48"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ctv-5f-uQh">
+                        <rect key="frame" x="2" y="2" width="362" height="44"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="sDA-zT-EVS">
+                                <rect key="frame" x="2" y="2" width="358" height="40"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="M0V-wm-e5D">
+                                        <rect key="frame" x="0.0" y="0.0" width="86" height="40"/>
+                                        <fontDescription key="fontDescription" name="Oswald-Regular" family="Oswald" pointSize="14"/>
+                                        <color key="textColor" red="0.97246724370000004" green="0.97260326149999998" blue="0.97242432830000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w7U-Rx-l6o">
+                                        <rect key="frame" x="91" y="0.0" width="85.5" height="40"/>
+                                        <fontDescription key="fontDescription" name="Oswald-Regular" family="Oswald" pointSize="14"/>
+                                        <color key="textColor" red="0.97246724370000004" green="0.97260326149999998" blue="0.97242432830000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Oy-0N-4pM">
+                                        <rect key="frame" x="181.5" y="0.0" width="86" height="40"/>
+                                        <fontDescription key="fontDescription" name="Oswald-Regular" family="Oswald" pointSize="14"/>
+                                        <color key="textColor" red="0.97246724370000004" green="0.97260326149999998" blue="0.97242432830000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rmZ-Ax-ofK">
+                                        <rect key="frame" x="272.5" y="0.0" width="85.5" height="40"/>
+                                        <fontDescription key="fontDescription" name="Oswald-Regular" family="Oswald" pointSize="14"/>
+                                        <color key="textColor" red="0.97246724370000004" green="0.97260326149999998" blue="0.97242432830000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="sDA-zT-EVS" secondAttribute="bottom" constant="2" id="24d-SQ-CCm"/>
+                            <constraint firstItem="sDA-zT-EVS" firstAttribute="top" secondItem="Ctv-5f-uQh" secondAttribute="top" constant="2" id="IuN-4T-t91"/>
+                            <constraint firstItem="sDA-zT-EVS" firstAttribute="leading" secondItem="Ctv-5f-uQh" secondAttribute="leading" constant="2" id="mDQ-pu-ppQ"/>
+                            <constraint firstAttribute="trailing" secondItem="sDA-zT-EVS" secondAttribute="trailing" constant="2" id="zca-WY-ZOX"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Ctv-5f-uQh" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="2" id="5S1-JT-807"/>
+                    <constraint firstAttribute="trailing" secondItem="Ctv-5f-uQh" secondAttribute="trailing" constant="2" id="QYk-xR-gVN"/>
+                    <constraint firstAttribute="bottom" secondItem="Ctv-5f-uQh" secondAttribute="bottom" constant="2" id="aRj-C8-tPq"/>
+                    <constraint firstItem="Ctv-5f-uQh" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="2" id="llx-L1-YpG"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="iconClassLbl" destination="w7U-Rx-l6o" id="kvM-Yr-hGi"/>
+                <outlet property="itemOrderLbl" destination="M0V-wm-e5D" id="jHg-nk-gfD"/>
+                <outlet property="titleLbl" destination="rmZ-Ax-ofK" id="Rz2-ED-ZiU"/>
+                <outlet property="valueLbl" destination="7Oy-0N-4pM" id="Vlj-DK-y1a"/>
+            </connections>
+            <point key="canvasLocation" x="159.42028985507247" y="81.696428571428569"/>
+        </tableViewCell>
+    </objects>
+</document>

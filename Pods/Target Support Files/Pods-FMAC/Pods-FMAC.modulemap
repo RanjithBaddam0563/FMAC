@@ -1,0 +1,6 @@
+framework module Pods_FMAC {
+  umbrella header "Pods-FMAC-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,315 @@
+
+/* Class = "UILabel"; text = "Player Name"; ObjectID = "0b9-yK-gD3"; */
+"0b9-yK-gD3.text" = "Player Name";
+
+/* Class = "UIButton"; normalTitle = " Join Now"; ObjectID = "0no-NP-eie"; */
+"0no-NP-eie.normalTitle" = " Join Now";
+
+/* Class = "UILabel"; text = "Passport Copy"; ObjectID = "0vx-Cc-1Wb"; */
+"0vx-Cc-1Wb.text" = "Passport Copy";
+
+/* Class = "UINavigationItem"; title = "Leave"; ObjectID = "26P-ye-dFM"; */
+"26P-ye-dFM.title" = "Leave";
+
+/* Class = "UIButton"; normalTitle = "Not a member ?"; ObjectID = "29Y-p0-z6E"; */
+"29Y-p0-z6E.normalTitle" = "Not a member ?";
+
+/* Class = "UINavigationItem"; title = "News"; ObjectID = "2Ry-q6-dvE"; */
+"2Ry-q6-dvE.title" = "News";
+
+/* Class = "UILabel"; text = "Number Of Player"; ObjectID = "2WA-bS-04v"; */
+"2WA-bS-04v.text" = "Number Of Player";
+
+/* Class = "UIButton"; normalTitle = "Browse"; ObjectID = "2cF-dj-UjB"; */
+"2cF-dj-UjB.normalTitle" = "Browse";
+
+/* Class = "UILabel"; text = "A largr portion of traditional martial arts can be categorized as Folk wrestling.."; ObjectID = "2v1-xQ-yE2"; */
+"2v1-xQ-yE2.text" = "A largr portion of traditional martial arts can be categorized as Folk wrestling..";
+
+/* Class = "UILabel"; text = "Attached file name"; ObjectID = "38A-Is-fHJ"; */
+"38A-Is-fHJ.text" = "Attached file name";
+
+/* Class = "UIButton"; normalTitle = "CLICK HERE TO REGISTER"; ObjectID = "3WL-8m-5XK"; */
+"3WL-8m-5XK.normalTitle" = "CLICK HERE TO REGISTER";
+
+/* Class = "UINavigationItem"; title = "FMAC"; ObjectID = "4P8-Ub-B5d"; */
+"4P8-Ub-B5d.title" = "FMAC";
+
+/* Class = "UINavigationItem"; title = "TRAINING SCHEDULE "; ObjectID = "4X8-mG-8g5"; */
+"4X8-mG-8g5.title" = "TRAINING SCHEDULE ";
+
+/* Class = "UIButton"; normalTitle = " Login"; ObjectID = "5Y3-se-Zbx"; */
+"5Y3-se-Zbx.normalTitle" = " Login";
+
+/* Class = "UILabel"; text = "Vision"; ObjectID = "6BB-Q0-Faw"; */
+"6BB-Q0-Faw.text" = "Vision";
+
+/* Class = "UILabel"; text = "Attached file name"; ObjectID = "6lo-1O-vrx"; */
+"6lo-1O-vrx.text" = "Attached file name";
+
+/* Class = "UIButton"; normalTitle = "Browse"; ObjectID = "8AE-Rq-nXN"; */
+"8AE-Rq-nXN.normalTitle" = "Browse";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "9Rv-9R-X6s"; */
+"9Rv-9R-X6s.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "A4a-FR-efI"; */
+"A4a-FR-efI.normalTitle" = "Sign In";
+
+/* Class = "UINavigationItem"; title = "ChampionShip"; ObjectID = "At7-ka-z97"; */
+"At7-ka-z97.title" = "ChampionShip";
+
+/* Class = "UILabel"; text = "5:00  4:00"; ObjectID = "BCw-bt-ahh"; */
+"BCw-bt-ahh.text" = "5:00  4:00";
+
+/* Class = "UILabel"; text = "Select Nationality"; ObjectID = "BYA-jd-UvI"; */
+"BYA-jd-UvI.text" = "Select Nationality";
+
+/* Class = "UIButton"; normalTitle = "Browse"; ObjectID = "Bhe-wN-HPR"; */
+"Bhe-wN-HPR.normalTitle" = "Browse";
+
+/* Class = "UILabel"; text = "Recommendation"; ObjectID = "BnD-RU-B6i"; */
+"BnD-RU-B6i.text" = "Recommendation";
+
+/* Class = "UILabel"; text = "Select Gander"; ObjectID = "CsP-y9-sul"; */
+"CsP-y9-sul.text" = "Select Gander";
+
+/* Class = "UILabel"; text = "Coach Name"; ObjectID = "CvX-3J-6s9"; */
+"CvX-3J-6s9.text" = "Coach Name";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Cw3-Qz-QJu"; */
+"Cw3-Qz-QJu.text" = "Address";
+
+/* Class = "UILabel"; text = "Emirates ID"; ObjectID = "CwO-fK-5G5"; */
+"CwO-fK-5G5.text" = "Emirates ID";
+
+/* Class = "UILabel"; text = "Leave From"; ObjectID = "D8r-Pk-OKK"; */
+"D8r-Pk-OKK.text" = "Leave From";
+
+/* Class = "UILabel"; text = "Injury Type"; ObjectID = "EjM-zE-ZsX"; */
+"EjM-zE-ZsX.text" = "Injury Type";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "FO4-Kn-CJz"; */
+"FO4-Kn-CJz.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Replace Employee"; ObjectID = "Fjw-l1-VZ2"; */
+"Fjw-l1-VZ2.text" = "Replace Employee";
+
+/* Class = "UILabel"; text = "Al Fujairah Branch"; ObjectID = "G4J-Hb-i9k"; */
+"G4J-Hb-i9k.text" = "Al Fujairah Branch";
+
+/* Class = "UIButton"; normalTitle = "Browse"; ObjectID = "GDA-28-OOh"; */
+"GDA-28-OOh.normalTitle" = "Browse";
+
+/* Class = "UIButton"; normalTitle = "Already have an account ?"; ObjectID = "H2M-H4-Ykd"; */
+"H2M-H4-Ykd.normalTitle" = "Already have an account ?";
+
+/* Class = "UINavigationItem"; title = "Notifications"; ObjectID = "HCz-mP-Q4T"; */
+"HCz-mP-Q4T.title" = "Notifications";
+
+/* Class = "UINavigationItem"; title = "Data List"; ObjectID = "HqY-GH-QRp"; */
+"HqY-GH-QRp.title" = "Data List";
+
+/* Class = "UILabel"; text = "Select type of game"; ObjectID = "I30-M6-lmI"; */
+"I30-M6-lmI.text" = "Select type of game";
+
+/* Class = "UINavigationItem"; title = "LEADERSHIP MESSAGE"; ObjectID = "JaN-eQ-wQN"; */
+"JaN-eQ-wQN.title" = "LEADERSHIP MESSAGE";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "JkT-Ya-hcu"; */
+"JkT-Ya-hcu.text" = "Mobile";
+
+/* Class = "UILabel"; text = "Judo - Juniors"; ObjectID = "Jvi-EV-RUe"; */
+"Jvi-EV-RUe.text" = "Judo - Juniors";
+
+/* Class = "UINavigationItem"; title = "BRIEF"; ObjectID = "KLm-mB-IG5"; */
+"KLm-mB-IG5.title" = "BRIEF";
+
+/* Class = "UILabel"; text = "Leave To"; ObjectID = "KO3-Ui-iBe"; */
+"KO3-Ui-iBe.text" = "Leave To";
+
+/* Class = "UILabel"; text = "Leave Type"; ObjectID = "Ksd-YD-CF2"; */
+"Ksd-YD-CF2.text" = "Leave Type";
+
+/* Class = "UILabel"; text = "Nov 23, 2018"; ObjectID = "LUw-wx-PmI"; */
+"LUw-wx-PmI.text" = "Nov 23, 2018";
+
+/* Class = "UILabel"; text = "First Category"; ObjectID = "NkD-RL-hJC"; */
+"NkD-RL-hJC.text" = "First Category";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Nyr-m0-9EG"; */
+"Nyr-m0-9EG.text" = "Address";
+
+/* Class = "UILabel"; text = "Injury Date"; ObjectID = "PnE-Cm-n6A"; */
+"PnE-Cm-n6A.text" = "Injury Date";
+
+/* Class = "UINavigationItem"; title = "Events"; ObjectID = "R2t-NW-Omo"; */
+"R2t-NW-Omo.title" = "Events";
+
+/* Class = "UILabel"; text = "Third Category"; ObjectID = "R2z-MW-pBW"; */
+"R2z-MW-pBW.text" = "Third Category";
+
+/* Class = "UILabel"; text = "Islam Atwa"; ObjectID = "SIU-qo-1Qy"; */
+"SIU-qo-1Qy.text" = "Islam Atwa";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "SJW-7R-i22"; */
+"SJW-7R-i22.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "SYq-bi-J6O"; */
+"SYq-bi-J6O.text" = "Date";
+
+/* Class = "UILabel"; text = "Sport"; ObjectID = "TXb-rz-Fbi"; */
+"TXb-rz-Fbi.text" = "Sport";
+
+/* Class = "UILabel"; text = "Personal Photo"; ObjectID = "UGn-yD-5fn"; */
+"UGn-yD-5fn.text" = "Personal Photo";
+
+/* Class = "UILabel"; text = "Period"; ObjectID = "V4t-uI-daK"; */
+"V4t-uI-daK.text" = "Period";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "Wmv-nW-k30"; */
+"Wmv-nW-k30.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "Browse"; ObjectID = "Wtw-8X-5HB"; */
+"Wtw-8X-5HB.normalTitle" = "Browse";
+
+/* Class = "UILabel"; text = "Camp Date"; ObjectID = "YJO-m7-dZK"; */
+"YJO-m7-dZK.text" = "Camp Date";
+
+/* Class = "UILabel"; text = "Date of birth"; ObjectID = "Yha-sm-KOw"; */
+"Yha-sm-KOw.text" = "Date of birth";
+
+/* Class = "UILabel"; text = "Karate"; ObjectID = "YsH-wg-0af"; */
+"YsH-wg-0af.text" = "Karate";
+
+/* Class = "UILabel"; text = "Sat/ Mon/ Wed"; ObjectID = "ZPb-lW-i9e"; */
+"ZPb-lW-i9e.text" = "Sat/ Mon/ Wed";
+
+/* Class = "UILabel"; text = "I recommend to you the morals, by which we live and by which we achieve, and I want your goal to represent your country in the best way possible in all forums."; ObjectID = "aJ8-Kv-heX"; */
+"aJ8-Kv-heX.text" = "I recommend to you the morals, by which we live and by which we achieve, and I want your goal to represent your country in the best way possible in all forums.";
+
+/* Class = "UINavigationItem"; title = "GALLERY TRAINING"; ObjectID = "aqR-SX-HxK"; */
+"aqR-SX-HxK.title" = "GALLERY TRAINING";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "b0b-sd-6js"; */
+"b0b-sd-6js.text" = "Welcome";
+
+/* Class = "UILabel"; text = "Second Category"; ObjectID = "bUn-UB-dGh"; */
+"bUn-UB-dGh.text" = "Second Category";
+
+/* Class = "UILabel"; text = "Yaman, Lee Named WT’s ‘Players of the Year’ at 5th Annual Gala Awards"; ObjectID = "c1r-wI-r7v"; */
+"c1r-wI-r7v.text" = "Yaman, Lee Named WT’s ‘Players of the Year’ at 5th Annual Gala Awards";
+
+/* Class = "UINavigationItem"; title = "LOGIN"; ObjectID = "cHR-pa-nrN"; */
+"cHR-pa-nrN.title" = "LOGIN";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "chg-LQ-dma"; */
+"chg-LQ-dma.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "dDm-5v-zvg"; */
+"dDm-5v-zvg.text" = "Description";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "fJd-18-pTz"; */
+"fJd-18-pTz.text" = "Full Name";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "fgo-Hp-wxw"; */
+"fgo-Hp-wxw.text" = "Email";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "foZ-o7-Ndm"; */
+"foZ-o7-Ndm.text" = "Position";
+
+/* Class = "UILabel"; text = "Representing the United Arab Emirates and the Emirate of Fujairah in international Martial sporting tournaments by identifying and training young talents in accordance with international standards while promoting fitness and health locally"; ObjectID = "fxr-m1-wpI"; */
+"fxr-m1-wpI.text" = "Representing the United Arab Emirates and the Emirate of Fujairah in international Martial sporting tournaments by identifying and training young talents in accordance with international standards while promoting fitness and health locally";
+
+/* Class = "UINavigationItem"; title = "Injury"; ObjectID = "gXr-GH-4Uo"; */
+"gXr-GH-4Uo.title" = "Injury";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "gg2-to-N9q"; */
+"gg2-to-N9q.placeholder" = "Email";
+
+/* Class = "UINavigationItem"; title = "GALLERY TRAINING"; ObjectID = "h2x-Lh-KXN"; */
+"h2x-Lh-KXN.title" = "GALLERY TRAINING";
+
+/* Class = "UILabel"; text = "Campitonship Name"; ObjectID = "hGA-Ig-rzP"; */
+"hGA-Ig-rzP.text" = "Campitonship Name";
+
+/* Class = "UILabel"; text = "Attached file name"; ObjectID = "hMg-53-iD2"; */
+"hMg-53-iD2.text" = "Attached file name";
+
+/* Class = "UILabel"; text = "Visa Copy"; ObjectID = "hiH-fi-Zrr"; */
+"hiH-fi-Zrr.text" = "Visa Copy";
+
+/* Class = "UILabel"; text = "Player Name"; ObjectID = "iWm-rv-0uT"; */
+"iWm-rv-0uT.text" = "Player Name";
+
+/* Class = "UILabel"; text = "Mission"; ObjectID = "jDt-EA-mZR"; */
+"jDt-EA-mZR.text" = "Mission";
+
+/* Class = "UILabel"; text = "WRESTLING"; ObjectID = "jWm-8J-TgV"; */
+"jWm-8J-TgV.text" = "WRESTLING";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "koJ-Bl-S8v"; */
+"koJ-Bl-S8v.text" = "Detail";
+
+/* Class = "UILabel"; text = "Select Branch"; ObjectID = "lo7-de-8uG"; */
+"lo7-de-8uG.text" = "Select Branch";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "oiK-EX-fB3"; */
+"oiK-EX-fB3.text" = "Time";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "pEn-tr-jwr"; */
+"pEn-tr-jwr.text" = "Mobile Number";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "qAu-p4-kTz"; */
+"qAu-p4-kTz.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "David Warner"; ObjectID = "qFH-QG-k5U"; */
+"qFH-QG-k5U.text" = "David Warner";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password ?"; ObjectID = "qV6-UH-p7A"; */
+"qV6-UH-p7A.normalTitle" = "Forgot Password ?";
+
+/* Class = "UILabel"; text = "Fees"; ObjectID = "rBI-bz-Hkr"; */
+"rBI-bz-Hkr.text" = "Fees";
+
+/* Class = "UINavigationItem"; title = "REGISTRATION"; ObjectID = "s2t-g1-gwO"; */
+"s2t-g1-gwO.title" = "REGISTRATION";
+
+/* Class = "UINavigationItem"; title = "Announcement"; ObjectID = "s7d-sb-zyE"; */
+"s7d-sb-zyE.title" = "Announcement";
+
+/* Class = "UILabel"; text = "Leave To"; ObjectID = "t1i-aP-2Ea"; */
+"t1i-aP-2Ea.text" = "Leave To";
+
+/* Class = "UILabel"; text = "Preparing and developing Martial sports talents in Fujairah to represent the United Arab Emirates regionally and globally."; ObjectID = "te8-Hy-MRv"; */
+"te8-Hy-MRv.text" = "Preparing and developing Martial sports talents in Fujairah to represent the United Arab Emirates regionally and globally.";
+
+/* Class = "UILabel"; text = "Attached file name"; ObjectID = "w1L-fQ-kwc"; */
+"w1L-fQ-kwc.text" = "Attached file name";
+
+/* Class = "UILabel"; text = "Goal Of Championship"; ObjectID = "xIA-Xj-3OL"; */
+"xIA-Xj-3OL.text" = "Goal Of Championship";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "xIv-O5-bIL"; */
+"xIv-O5-bIL.title" = "Title";
+
+/* Class = "UILabel"; text = "AL- Fujairah Martial Arts Club was established in 2013 and is considered as one of the first initiatives in the country and regionally to foundress professional clubs to embrace all Martial sports.\n\nFujairah Martial Arts Club, which was established according to the directives of His Highness Sheikh Mohammed bin Hamad Al Sharqi,\n\nCrown Prince of the Emirate of Fujairah, is a sports platform that brings together several martial arts sports. These sports and the development of their skills, and within a short period, the Fujairah Martial Arts Club became the most prominent sporting beacon in the emirate thanks to the direct support and development of His Highness the Crown Prince of Fujairah for these sports and their development. The club has also become an important sporting destination in the United Arab Emirates for its contribution to giving hope to athletes wishing to practice such Martial arts ."; ObjectID = "xwE-q2-BkI"; */
+"xwE-q2-BkI.text" = "AL- Fujairah Martial Arts Club was established in 2013 and is considered as one of the first initiatives in the country and regionally to foundress professional clubs to embrace all Martial sports.\n\nFujairah Martial Arts Club, which was established according to the directives of His Highness Sheikh Mohammed bin Hamad Al Sharqi,\n\nCrown Prince of the Emirate of Fujairah, is a sports platform that brings together several martial arts sports. These sports and the development of their skills, and within a short period, the Fujairah Martial Arts Club became the most prominent sporting beacon in the emirate thanks to the direct support and development of His Highness the Crown Prince of Fujairah for these sports and their development. The club has also become an important sporting destination in the United Arab Emirates for its contribution to giving hope to athletes wishing to practice such Martial arts .";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "yCI-U4-Ui7"; */
+"yCI-U4-Ui7.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "Recommendation"; ObjectID = "yhc-Eg-ECb"; */
+"yhc-Eg-ECb.text" = "Recommendation";
+
+/* Class = "UILabel"; text = "Place"; ObjectID = "yhz-VP-JYG"; */
+"yhz-VP-JYG.text" = "Place";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "zHv-cO-pva"; */
+"zHv-cO-pva.normalTitle" = "REGISTER";
+
+/* Class = "UILabel"; text = "Attached file name"; ObjectID = "zM0-S4-qTU"; */
+"zM0-S4-qTU.text" = "Attached file name";
+
+/* Class = "UILabel"; text = "FUJAIRAH, UAE (Nov 23, 2018) –Turkey’s Irem Yaman was named Female Player of the Year and Korea’s Dae-hoon Lee was named Male Player of the Year as World Taekwondo honored its top players and personalities at the 5th Annual Gala Awards Show, which took place in ritzy surroundings at the Fujairah National Theater.\n\t\t\t\n“Tonight is not about competition, it is about recognition…it is also about friendship across all boundaries of color, religion and culture,” said WT President Chungwon Choue. “Regardless of who wins the awards, everyone here is part of the global taekwondo elite, and that makes everyone here very special.”\n\nHe also gave his thanks to the host, Fujairah Crown Prince Mohammed bin Hamad bin Mohammed Al Sharqi who has sponsored the Grand-Prix Final, which conclude today, and the upcoming World Team Championships which take place over the next two days.\n\nFujairah Crown Prince addressed “Let me take you back a couple of years when we first started with a small group of excited students who took an interest in trying a new sport -taking baby steps with them, seeing them sweat, train, win and lose,” he recalled. “We have started a program to prepare and train an Olympic champion who will represent UAE in the near future.” He thanked Choue and the WT team for guiding Fujairah in this process.\n\nA short film to mark WT’s 45th anniversary was shown and between the awards, artists from the Fujairah Fine Arts Academy entertained the audience with music – Arabic and Classical – and dance.\n\nThe MNA (Member National Association) of the Year award, presented to the MNA which has done the most to promote taekwondo in its country and region, was awarded to two MNAs: UAE, host of the Grand-Prix Finals, and Italy, which this year started hosting a new Grand-Prix, in Rome, and which also oversaw a taekwondo demonstration at the Vatican, attended by Pope Francis.\n\nIOC Member Ivan Dibos presented the Coach of the Year award to Turkey’s Ali Sahin, who has overseen the growth of Turkish taekwondo, notably its world-beating women’s team.\n\nThe Kick of the Year award was won once again by perennial crowd favorite Aaron Cook of Moldova, for a series of multiple, machine-gun round kicks. The award was to be presented by WT Vice President Kyu-seok Lee.\n\nThe first-ever Taekwondo Cares Award was presented by WT Vice President Ahmed Fouly to Hazem Ahmad Awwad Naimat of Jordan for his contributions to the Taekwondo Humanitarian Foundation’s Azraq Taekwondo Academy.| WT Vice President John Kotsifas presented the Grand-Prix Final Best Volunteer Award to Mohamed Khaled.\n\nThe Female Referee of the Award was presented by WT Secretary General Hoss Rafaty to Ksenia Choucha of Belarus – who received a standing ovation from her fellow referees. “In my time, I was also an athlete and remember how important it was to make games fair and transparent,” she said. “To make them exciting and fair, it depends on a team….[and our team] works together shoulder to shoulder.”\n\nThe Male Referee of the Year Award was presented by WT Vice President Jiho Choi who – after lamenting that there was no Best Referee award when he was refereering himself - said: “Referees are an integral part of our organization and I would like to take this opportunity to thank you,” he said. The winner was Mohamed Adel Abdelfattah of Egypt. “This is very important moment to me, I cannot deliver what I feel to you,” he said. Addressing his fellow referees, he added, “I have nothing if I don’t have you!”\n\nhe Female Player of the Year award was presented by Choue to Turkey’s Irem “The Gold Hunter” Yaman.\n\n“I am so excited…this year was a really good year for me, thank you everybody and thank you to my team. “ The Best Player award will join Yaman’s increasingly packed trophy cabinet which includes gold medals from the Grand Prix, the Grand Slam, the European Championships and the World Championships.\n\nThe Male Player of the Year award was presented by UAE Taekwondo President Ahmed AlZeyoudi to Dae-hoon Lee of Korea. The phenomenal Lee, a human kicking machine, is not only the most dominant player in the sport, he has such a nice-guy person that he has won the Male Player of the Year award four times. It was a double good day for Lee, who had earlier won the Grand Prix Final title with a staggering 65 points.\n\n“Thank you World Taekwondo, thank you for everyone, thank you to Team Korea I am so happy to be here - it’s beautiful!” he said as he accepted the award. The Gala Awards ended with the WT banner being passed from representatives of the UAE Taekwondo Federation to the Russian Taekwondo Federation, which will host next year’s Grand-Prix Final"; ObjectID = "zwh-Ch-fSl"; */
+"zwh-Ch-fSl.text" = "FUJAIRAH, UAE (Nov 23, 2018) –Turkey’s Irem Yaman was named Female Player of the Year and Korea’s Dae-hoon Lee was named Male Player of the Year as World Taekwondo honored its top players and personalities at the 5th Annual Gala Awards Show, which took place in ritzy surroundings at the Fujairah National Theater.\n\t\t\t\n“Tonight is not about competition, it is about recognition…it is also about friendship across all boundaries of color, religion and culture,” said WT President Chungwon Choue. “Regardless of who wins the awards, everyone here is part of the global taekwondo elite, and that makes everyone here very special.”\n\nHe also gave his thanks to the host, Fujairah Crown Prince Mohammed bin Hamad bin Mohammed Al Sharqi who has sponsored the Grand-Prix Final, which conclude today, and the upcoming World Team Championships which take place over the next two days.\n\nFujairah Crown Prince addressed “Let me take you back a couple of years when we first started with a small group of excited students who took an interest in trying a new sport -taking baby steps with them, seeing them sweat, train, win and lose,” he recalled. “We have started a program to prepare and train an Olympic champion who will represent UAE in the near future.” He thanked Choue and the WT team for guiding Fujairah in this process.\n\nA short film to mark WT’s 45th anniversary was shown and between the awards, artists from the Fujairah Fine Arts Academy entertained the audience with music – Arabic and Classical – and dance.\n\nThe MNA (Member National Association) of the Year award, presented to the MNA which has done the most to promote taekwondo in its country and region, was awarded to two MNAs: UAE, host of the Grand-Prix Finals, and Italy, which this year started hosting a new Grand-Prix, in Rome, and which also oversaw a taekwondo demonstration at the Vatican, attended by Pope Francis.\n\nIOC Member Ivan Dibos presented the Coach of the Year award to Turkey’s Ali Sahin, who has overseen the growth of Turkish taekwondo, notably its world-beating women’s team.\n\nThe Kick of the Year award was won once again by perennial crowd favorite Aaron Cook of Moldova, for a series of multiple, machine-gun round kicks. The award was to be presented by WT Vice President Kyu-seok Lee.\n\nThe first-ever Taekwondo Cares Award was presented by WT Vice President Ahmed Fouly to Hazem Ahmad Awwad Naimat of Jordan for his contributions to the Taekwondo Humanitarian Foundation’s Azraq Taekwondo Academy.| WT Vice President John Kotsifas presented the Grand-Prix Final Best Volunteer Award to Mohamed Khaled.\n\nThe Female Referee of the Award was presented by WT Secretary General Hoss Rafaty to Ksenia Choucha of Belarus – who received a standing ovation from her fellow referees. “In my time, I was also an athlete and remember how important it was to make games fair and transparent,” she said. “To make them exciting and fair, it depends on a team….[and our team] works together shoulder to shoulder.”\n\nThe Male Referee of the Year Award was presented by WT Vice President Jiho Choi who – after lamenting that there was no Best Referee award when he was refereering himself - said: “Referees are an integral part of our organization and I would like to take this opportunity to thank you,” he said. The winner was Mohamed Adel Abdelfattah of Egypt. “This is very important moment to me, I cannot deliver what I feel to you,” he said. Addressing his fellow referees, he added, “I have nothing if I don’t have you!”\n\nhe Female Player of the Year award was presented by Choue to Turkey’s Irem “The Gold Hunter” Yaman.\n\n“I am so excited…this year was a really good year for me, thank you everybody and thank you to my team. “ The Best Player award will join Yaman’s increasingly packed trophy cabinet which includes gold medals from the Grand Prix, the Grand Slam, the European Championships and the World Championships.\n\nThe Male Player of the Year award was presented by UAE Taekwondo President Ahmed AlZeyoudi to Dae-hoon Lee of Korea. The phenomenal Lee, a human kicking machine, is not only the most dominant player in the sport, he has such a nice-guy person that he has won the Male Player of the Year award four times. It was a double good day for Lee, who had earlier won the Grand Prix Final title with a staggering 65 points.\n\n“Thank you World Taekwondo, thank you for everyone, thank you to Team Korea I am so happy to be here - it’s beautiful!” he said as he accepted the award. The Gala Awards ended with the WT banner being passed from representatives of the UAE Taekwondo Federation to the Russian Taekwondo Federation, which will host next year’s Grand-Prix Final";

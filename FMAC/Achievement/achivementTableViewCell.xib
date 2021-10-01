@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Oswald-Medium.ttf">
+            <string>Oswald-Medium</string>
+        </array>
+        <array key="Oswald-Regular.ttf">
+            <string>Oswald-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="achivementTableViewCell" rowHeight="264" id="KGk-i7-Jjw" customClass="achivementTableViewCell" customModule="FMAC" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="357" height="264"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="357" height="264"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Zlh-eR-HyY">
+                        <rect key="frame" x="0.0" y="0.0" width="357" height="264"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="252" image="achiv" translatesAutoresizingMaskIntoConstraints="NO" id="1cc-m0-YIR">
+                                <rect key="frame" x="25" y="10" width="307" height="182"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LUu-cb-yHa">
+                                <rect key="frame" x="25" y="192" width="307" height="70"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="2" translatesAutoresizingMaskIntoConstraints="NO" id="t65-P7-QEb">
+                                        <rect key="frame" x="5" y="2" width="225" height="63"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Yaman, Lee Named WT's 'Players of the year' at 5th Annual Gala Awards" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Zie-S6-XhV">
+                                                <rect key="frame" x="0.0" y="0.0" width="225" height="41.5"/>
+                                                <fontDescription key="fontDescription" name="Oswald-Regular" family="Oswald" pointSize="14"/>
+                                                <color key="textColor" red="0.6597011089" green="0.060535594819999997" blue="0.0086353635420000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Nov 23,2018" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RBR-Q7-cUC">
+                                                <rect key="frame" x="0.0" y="43.5" width="225" height="19.5"/>
+                                                <fontDescription key="fontDescription" name="Oswald-Regular" family="Oswald" pointSize="13"/>
+                                                <color key="textColor" red="0.078420750799999994" green="0.078438408670000001" blue="0.078415162859999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
+                                    </stackView>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4eN-pN-CFB">
+                                        <rect key="frame" x="232" y="17.5" width="70" height="35"/>
+                                        <color key="backgroundColor" red="0.078420750799999994" green="0.078438408670000001" blue="0.078415162859999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="70" id="yZg-bU-Lse"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="Oswald-Medium" family="Oswald" pointSize="15"/>
+                                        <state key="normal" title="Read More">
+                                            <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" red="0.9136484265" green="0.91377657649999999" blue="0.91360795500000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstItem="t65-P7-QEb" firstAttribute="leading" secondItem="LUu-cb-yHa" secondAttribute="leading" constant="5" id="2GK-iW-lXa"/>
+                                    <constraint firstItem="4eN-pN-CFB" firstAttribute="leading" secondItem="t65-P7-QEb" secondAttribute="trailing" constant="2" id="3v3-8s-20m"/>
+                                    <constraint firstAttribute="trailing" secondItem="4eN-pN-CFB" secondAttribute="trailing" constant="5" id="CeO-Qt-WMo"/>
+                                    <constraint firstItem="4eN-pN-CFB" firstAttribute="centerY" secondItem="LUu-cb-yHa" secondAttribute="centerY" id="FOj-vm-XDq"/>
+                                    <constraint firstAttribute="bottom" secondItem="t65-P7-QEb" secondAttribute="bottom" constant="5" id="IVB-Jc-sbM"/>
+                                    <constraint firstAttribute="height" constant="70" id="fQB-M4-ddZ"/>
+                                    <constraint firstItem="t65-P7-QEb" firstAttribute="top" secondItem="LUu-cb-yHa" secondAttribute="top" constant="2" id="wVN-n4-6RB"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="1cc-m0-YIR" firstAttribute="top" secondItem="Zlh-eR-HyY" secondAttribute="top" constant="10" id="67K-M8-uNN"/>
+                            <constraint firstAttribute="trailing" secondItem="1cc-m0-YIR" secondAttribute="trailing" constant="25" id="A0D-Ha-Xh2"/>
+                            <constraint firstItem="1cc-m0-YIR" firstAttribute="leading" secondItem="Zlh-eR-HyY" secondAttribute="leading" constant="25" id="DSr-9Y-58B"/>
+                            <constraint firstItem="LUu-cb-yHa" firstAttribute="leading" secondItem="Zlh-eR-HyY" secondAttribute="leading" constant="25" id="Lb0-rw-SSY"/>
+                            <constraint firstAttribute="bottom" secondItem="LUu-cb-yHa" secondAttribute="bottom" constant="2" id="fiC-GR-Gww"/>
+                            <constraint firstItem="LUu-cb-yHa" firstAttribute="top" secondItem="1cc-m0-YIR" secondAttribute="bottom" id="ncu-RQ-3LT"/>
+                            <constraint firstAttribute="trailing" secondItem="LUu-cb-yHa" secondAttribute="trailing" constant="25" id="qgy-i8-upo"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Zlh-eR-HyY" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="CTV-KP-W3f"/>
+                    <constraint firstAttribute="trailing" secondItem="Zlh-eR-HyY" secondAttribute="trailing" id="c2T-JA-5DH"/>
+                    <constraint firstAttribute="bottom" secondItem="Zlh-eR-HyY" secondAttribute="bottom" id="eo7-Ha-r1v"/>
+                    <constraint firstItem="Zlh-eR-HyY" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="vaN-xl-Srj"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="achivDateLbl" destination="RBR-Q7-cUC" id="tYa-Sb-bnz"/>
+                <outlet property="achivImg" destination="1cc-m0-YIR" id="TxC-wO-SAl"/>
+                <outlet property="achivTxtLbl" destination="Zie-S6-XhV" id="Cip-bc-lFu"/>
+                <outlet property="readMoreBtn" destination="4eN-pN-CFB" id="NxJ-DJ-mWZ"/>
+            </connections>
+            <point key="canvasLocation" x="167.39130434782609" y="150.66964285714286"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="achiv" width="286" height="176"/>
+    </resources>
+</document>

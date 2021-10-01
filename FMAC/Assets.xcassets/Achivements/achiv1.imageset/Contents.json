@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "achievement-quotes-with-success-medal-goal-symbols-realistic-illustration_1284-28111.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
